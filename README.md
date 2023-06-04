@@ -1,0 +1,2 @@
+# NASAPictureExplorer
+The "NASA Picture Explorer" is a web application that allows users to explore the captivating Astronomy Picture of the Day (APOD) provided by NASA. Users can select a specific date using a user-friendly form, and the application retrieves and displays the corresponding image and information from the NASA API. The application also features a search history functionality, where users can save their past searches and easily revisit them with a single click.
